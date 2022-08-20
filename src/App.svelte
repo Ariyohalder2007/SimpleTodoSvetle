@@ -44,8 +44,7 @@
     <div class="loader">Loading...</div>
   {/if}
 {/if}
-
-<style>
+<!-- <style>
   .loader {
     color: #ffffff;
     font-size: 90px;
@@ -144,4 +143,4 @@
       transform: rotate(360deg);
     }
   }
-</style>
+</style> -->
